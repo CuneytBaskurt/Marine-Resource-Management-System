@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1699554424 source:c:\users\acer\desktop\pro.lab.01\cuneyt\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<curl/curl.h>
+	<SDL_ttf.h>
+	<stdbool.h>
+	<math.h>
+
+1699554424 source:c:\users\acer\desktop\pro.lab-1\pro.lab.01\cuneyt\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<curl/curl.h>
+	<SDL_ttf.h>
+	<stdbool.h>
+	<math.h>
+
+1699554424 source:c:\users\acer\desktop\prolab-1\pro.lab-1\pro.lab.01\cuneyt\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL.h>
+	<curl/curl.h>
+	<SDL_ttf.h>
+	<stdbool.h>
+	<math.h>
+
